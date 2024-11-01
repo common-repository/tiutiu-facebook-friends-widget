@@ -1,0 +1,12 @@
+.tiutiu_facebook_friends_widget img {
+	margin: 0px 10px 10px 0px;
+	float: left;
+}
+.tiutiu_facebook_friends_widget p {
+	margin-bottom: 5px;
+}
+.clear {
+	clear: both;
+	display: none;
+	visibility: hidden;
+}
